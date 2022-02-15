@@ -35,6 +35,8 @@ public class Main {
 
     Farm farm1 = new Farm("Batken", cows, sheep5,  horses,"Aichurok");
     Farm farm2 = new Farm("Chuy", cows7,  sheep6,  horses4,"Ulukbek");
-    
+
+        System.out.println(farm1);
+        System.out.println(farm2);
     }
 }
