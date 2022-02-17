@@ -7,4 +7,8 @@ public class Sheep extends AbstractAnimal{
         super(weight, age, gender, nickName);
     }
 
+    @Override
+    public String toString() {
+        return "Sheep{}";
+    }
 }

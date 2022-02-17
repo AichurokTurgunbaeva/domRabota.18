@@ -49,7 +49,7 @@ public abstract class AbstractAnimal {
 
     @Override
     public String toString() {
-        return
+        return "Animal{" +
                 "weight=" + weight +
                 ", age=" + age +
                 ", gender='" + gender + '\'' +
